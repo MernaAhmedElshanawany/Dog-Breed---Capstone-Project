@@ -10,6 +10,16 @@ AUsing CNN models for classification, this project highlights the challenges inv
 For Better understanding, please check report.html file... it will take you in a journey to explore the CNN models and their variances.
 
 
-## Note
+## Notes
 
-This project is the capstone project for Udacity Data Scientist Nanodegree and it was a great picture-completing part with the flowers classifier int eh Machine Learning Nanodegree project .. I really enjoyed both of them.
+1. This project is the capstone project for Udacity Data Scientist Nanodegree and it was a great picture-completing part with the flowers classifier int eh Machine Learning Nanodegree project .. I really enjoyed both of them.
+
+2. I didn't upload all data here per the following Submission Instructions:
+
+
+When you are ready to submit your project, collect the following files and compress them into a single archive for upload:
+- The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
+- An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
+- Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
+
+Alternatively, your submission could consist of the GitHub link to your repository.
