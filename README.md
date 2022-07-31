@@ -1,4 +1,4 @@
-# Dog-Breed---Capstone-Project
+# Dog-Breed - Capstone Project
 
 ## Project Overview
 
