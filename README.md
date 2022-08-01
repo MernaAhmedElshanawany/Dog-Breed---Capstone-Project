@@ -7,7 +7,7 @@ Given an image of a dog, it will estimate of the canine’s breed.  If supplied 
 
 AUsing CNN models for classification, this project highlights the challenges involved in adding a series of models designed to perform various tasks.
 
-For Better understanding, please check report.html file... it will take you in a journey to explore the CNN models and their variances.
+For Better understanding, please check report.pdf file... it will take you in a journey to explore the CNN models and their variances.
 
 
 ## Notes
@@ -23,3 +23,7 @@ When you are ready to submit your project, collect the following files and compr
 - Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+## Disclaimer
+This project is open-source. You can use any part of the code/report freely.
+
